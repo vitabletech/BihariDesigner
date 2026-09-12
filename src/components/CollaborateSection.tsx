@@ -17,7 +17,7 @@ export default function CollaborateSection({ asH1 = false }: { asH1?: boolean } 
     message: "",
   });
 
-  const emailAddress = "abhay_work@outlook.com";
+  const emailAddress = "abhay@apna.design";
   const phoneNumber = "+91 7764032453";
 
   const handleCopyEmail = () => {

@@ -150,7 +150,7 @@ export default function Footer() {
             <div className="space-y-1.5 text-xs text-background/60">
               <p className="flex items-center gap-1.5">
                 <Mail size={12} className="text-terracotta" />
-                <span>abhay_work@outlook.com</span>
+                <span>abhay@apna.design</span>
               </p>
               <p className="flex items-center gap-1.5">
                 <MapPin size={12} className="text-mithila" />
